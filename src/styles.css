@@ -177,13 +177,4 @@
 }
 
 html, body { background-color: oklch(0.1 0.02 270); }
-
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
-
-/* keep dark default */
 .dark { color-scheme: dark; }
-:root { color-scheme: dark; }
-
-.legacy {
-  --foo: 0;
-  }
